@@ -1,0 +1,7 @@
+setting,value
+seed,42
+updates_per_graph,10
+self_rate,0.2
+test_fraction,0.25
+val_fraction,0.1
+policy,pooled_loss_10
