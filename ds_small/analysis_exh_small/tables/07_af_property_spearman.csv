@@ -1,0 +1,11 @@
+property,n_graphs,spearman_rho
+accepted_ratio,36,0.9250735862013798
+n_arg,36,-0.11571426308203787
+density_ns,36,0.0938525926737135
+self_attack_ratio,36,-0.8277234062118612
+reciprocal_attack_ratio_ns,36,0.4951526847834623
+unattacked_ratio,36,0.22033831021215647
+largest_scc_ratio,36,0.250869866561254
+cyclic_node_ratio,36,-0.18631109136308152
+condensation_depth_normalized,36,-0.5050552279711815
+reachable_pair_ratio,36,0.2261161913763201

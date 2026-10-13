@@ -1,0 +1,5 @@
+region,label,argument_update_occurrences,pooled_retained_percent_of_A,pooled_reduction_from_A_percent,median_AF_retained_percent_of_A
+A,All arguments,2880508,100.0,0.0,100.0
+Reach,Reach_F(b),1166900,40.51021555919998,59.48978444080002,40.3419049887787
+C_delta,C_e^Delta,745677,25.88699632148218,74.11300367851783,15.692080434006744
+C_cad_delta,"C_cad,e^Delta",716609,24.877868764815094,75.12213123518491,14.289831097413586

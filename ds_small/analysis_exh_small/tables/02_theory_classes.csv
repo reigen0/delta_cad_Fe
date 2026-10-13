@@ -1,0 +1,11 @@
+scope,category,label,n_graphs,n_updates,n_self,n_nonself,pooled_change_percent,median_AF_change_percent,mean_delta_when_changed,no_change,loss_only,gain_only,mixed
+all_additions,guaranteed,change guaranteed,34,6188,574,5614,100.0,100.0,1.4558823529411764,0,4912,0,1276
+all_additions,ruled_out,change ruled out,28,11539,271,11268,0.0,0.0,,11539,0,0,0
+all_additions,unresolved_gain_ruled_out,unresolved; gain ruled out,34,10420,0,10420,65.29750479846449,56.111111111111114,1.056878306878307,3616,6804,0,0
+all_additions,unresolved_neither_ruled_out,unresolved; neither direction ruled out,19,5629,0,5629,46.17161129863208,50.204081632653065,3.2454790303963064,3030,1441,38,1120
+all_additions,unresolved_loss_ruled_out,unresolved; loss ruled out,24,10206,0,10206,6.055261610817166,9.31159420289855,1.5469255663430421,9588,0,618,0
+nonself_additions,guaranteed,change guaranteed,22,5614,0,5614,100.0,100.0,1.4638403990024937,0,4338,0,1276
+nonself_additions,ruled_out,change ruled out,28,11268,0,11268,0.0,0.0,,11268,0,0,0
+nonself_additions,unresolved_gain_ruled_out,unresolved; gain ruled out,34,10420,0,10420,65.29750479846449,56.111111111111114,1.056878306878307,3616,6804,0,0
+nonself_additions,unresolved_neither_ruled_out,unresolved; neither direction ruled out,19,5629,0,5629,46.17161129863208,50.204081632653065,3.2454790303963064,3030,1441,38,1120
+nonself_additions,unresolved_loss_ruled_out,unresolved; loss ruled out,24,10206,0,10206,6.055261610817166,9.31159420289855,1.5469255663430421,9588,0,618,0

@@ -1,0 +1,5 @@
+scope,category,label,n_graphs,n_updates,n_self,n_nonself,pooled_change_percent,median_AF_change_percent,mean_delta_when_changed,no_change,loss_only,gain_only,mixed
+nonself,00,source unaccepted; target unaccepted,25,14204,0,14204,0.4153759504364967,0.1734304543877905,2.288135593220339,14145,0,59,0
+nonself,01,source unaccepted; target accepted,23,6884,0,6884,21.51365485183033,41.66666666666667,1.3821742066171505,5403,1359,117,5
+nonself,10,source accepted; target unaccepted,23,6651,0,6651,6.931288528040897,6.976744186046512,1.4273318872017353,6190,0,461,0
+nonself,11,source accepted; target accepted,33,15398,0,15398,88.54396674892844,100.0,1.6106791843919612,1764,11224,19,2391
