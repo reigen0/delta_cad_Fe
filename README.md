@@ -1,5 +1,3 @@
-# Predicting Credulous Acceptance Change under Single-Attack Addition
-
 Code and data accompanying a thesis on predicting which arguments change their credulous acceptance status under admissible semantics after adding one attack to a Dung argumentation framework (AF). The repository includes a labelled benchmark, a small exhaustive study, GINE and Random Forest models, and evaluation scripts.
 
 ## Data
