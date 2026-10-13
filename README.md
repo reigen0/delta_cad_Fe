@@ -69,9 +69,7 @@ python scripts/evaluate_graph_properties.py \
 
 Replace the uppercase filenames with the actual generated prediction CSV filenames. Run separately for the desired training conditions.
 
-## Reanalyse the exhaustive small-AF study
-
-With the 36 AF files and their initial acceptance files in `ds_small/train/`, the published labels can be reanalysed:
+With the 36 AF files and their initial acceptance files in `ds_small/train/`, the labels can be reanalysed:
 
 ```bash
 python scripts/analyze_exhaustive.py \
