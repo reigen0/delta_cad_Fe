@@ -1,12 +1,12 @@
 # Predicting Credulous Acceptance Change under Single-Attack Addition
 
-Code and data accompanying a thesis on predicting which arguments change their **credulous acceptance status under admissible semantics** after adding one attack to a Dung argumentation framework (AF). The repository includes a labelled benchmark, a small exhaustive study, GINE and Random Forest models, and evaluation scripts.
+Code and data accompanying a thesis on predicting which arguments change their credulous acceptance status under admissible semantics after adding one attack to a Dung argumentation framework (AF). The repository includes a labelled benchmark, a small exhaustive study, GINE and Random Forest models, and evaluation scripts.
 
 ## Data
 
-- **Prediction benchmark:** 208 base AFs (135 training / 21 validation / 52 test), with 2,070 sampled single-attack additions. `instances.csv` contains the attack endpoints and exact change, gain, and loss labels.
-- **Exhaustive study:** 36 small AFs and 43,982 evaluated attack additions, including self-attacks.
-- **Results:** `all_results.csv` and `set_level_results.csv` contain the reported aggregate and set-level evaluation results.
+- Prediction benchmark: 208 base AFs (135 training / 21 validation / 52 test), with 2,070 sampled single-attack additions. `instances.csv` contains the attack endpoints and exact change, gain, and loss labels.
+- Exhaustive study: 36 small AFs and 43,982 evaluated attack additions, including self-attacks.
+- Results: `all_results.csv` and `set_level_results.csv` contain the reported aggregate and set-level evaluation results.
 
 The benchmark was constructed to cover different AF structures and update situations, no representative sample
 
